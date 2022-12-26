@@ -1,2 +1,2 @@
-# hub_learnPy
-programming language
+# learning programming language
+Python
